@@ -1,2 +1,3 @@
 # javaScript_concepts
 it includes the basic javascript features like closure, higherorder function...
+Check out the master branch
